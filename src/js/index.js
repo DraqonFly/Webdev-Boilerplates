@@ -1,3 +1,6 @@
 import "../scss/index.scss";
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App.jsx";
 
-console.log("hello world")
+ReactDOM.render(<App />, document.getElementById("root"))
