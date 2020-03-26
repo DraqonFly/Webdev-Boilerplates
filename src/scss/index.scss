@@ -1,0 +1,8 @@
+@import "./precompiled/settings.scss";
+
+@import "./precompiled/variables.scss";
+
+body {
+    color: get-color(primary);
+    background: get-color(secondary);
+}

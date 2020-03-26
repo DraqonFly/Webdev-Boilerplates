@@ -1,1 +1,1 @@
-test
+# Webpack-Boilerplate
